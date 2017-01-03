@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="V3D">
+    <file>Resources/colobox.png</file>
+   
+  </qresource>
+</RCC>
